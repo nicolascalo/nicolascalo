@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+You will find here a collection of projects I have been working on, including:
+
+- some Scripts I have bee using to solve practical problems in my daily life
+- a portfolio of biomedical data analysis pipelines I have engineered over my career
+- a project I will soon start as part of my data engineering cursus
+
+Cheers,
+
+Nicolas
+
 <!--
 **nicolascalo/nicolascalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
