@@ -2,8 +2,8 @@
 
 You will find here a collection of projects I have been working on, including:
 
-- some Scripts I have bee using to solve practical problems in my daily life
-- a portfolio of biomedical data analysis pipelines I have engineered over my career
+- some scripts I have bee using to solve practical problems in my daily life (everyday_life_utils)
+- a portfolio of biomedical data analysis pipelines I have engineered over my career (biomedical_data_pipelines )
 - a project I will soon start as part of my data engineering cursus
 
 Cheers,
